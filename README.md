@@ -8,6 +8,9 @@ lsb_release -cs
 ```
 This should output `oracular`.
 
+## Contributing
+
+Contributions are always welcome! In case you have any request or encounter a bug, please create an issue on the repo. You can also fork this repo and make your changes.
 
 ## Usage
 
@@ -93,8 +96,3 @@ This setups some [nerd fonts](https://www.nerdfonts.com)
 - [OBS Studio](https://obsproject.com)
 - [VS Code](https://code.visualstudio.com)
 - [Brave Browser](https://brave.com)
-
-
-## Contributing
-
-Contributions are always welcome! In case you have any request or encounter a bug, please create an issue on the repo.
